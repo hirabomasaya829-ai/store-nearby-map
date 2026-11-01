@@ -10,3 +10,4 @@ GitHubリポジトリをCloudflare Pagesに接続し、Framework preset: None、
 
 ## 注意
 地図と店舗情報はOpenStreetMap由来。店舗データには欠落があります。距離は直線距離。公開Overpass APIとOSMタイルの利用規約・利用制限に注意してください。大量アクセス向けには別途データ配信が必要です。
+<!-- Trigger Cloudflare Pages deployment after GitHub integration permission update. -->
